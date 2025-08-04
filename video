@@ -1,0 +1,5 @@
+video-host-test/
+│
+├── public/
+│   └── myvideo.mp4
+└── index.html (optional)
